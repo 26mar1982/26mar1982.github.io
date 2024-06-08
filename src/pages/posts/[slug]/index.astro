@@ -12,7 +12,7 @@ export interface Props {
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog", ({ data }) => !data.draft);
-
+  const postsWithRT = await getPostsWithRT(posts); // replace reading time logic with this func
   const postResult = posts.map(post => ({
     params: { slug: post.slug },
     props: { post },
