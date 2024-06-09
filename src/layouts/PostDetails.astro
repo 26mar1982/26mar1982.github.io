@@ -4,7 +4,6 @@ import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Tag from "@components/Tag.astro";
 import Datetime from "@components/Datetime";
-import HijriDate from "@components/HijriDate.astro";
 import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
 import ShareLinks from "@components/ShareLinks.astro";
@@ -73,11 +72,10 @@ const layoutProps = {
     <Datetime
       pubDatetime={pubDatetime}
       modDatetime={modDatetime}
-      hijriDate={HijriDate}
       size="lg"
       className="my-2"
     />
-    <p>Posted on: {post.hijriDate}</p>
+    <p>Posted on: {post.hijriDate} by {post.author}</p>
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
     </article>
