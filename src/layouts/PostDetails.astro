@@ -13,6 +13,7 @@ export interface Props {
   post: CollectionEntry<"blog">;
 }
 
+const { frontmatter } = Astro.props;
 const { post } = Astro.props;
 
 const {
@@ -75,7 +76,7 @@ const layoutProps = {
       size="lg"
       className="my-2"
     />
-    <p>Posted on: {post.hijriDate} by {post.author}</p>
+    <p>Posted on: {frontmatter.hijriDate} by {frontmatter.author}</p>
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
     </article>
