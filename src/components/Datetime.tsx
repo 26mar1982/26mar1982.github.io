@@ -35,7 +35,7 @@ export default function Datetime({
       </span>
       <span aria-hidden="true"> | </span>
       <span className="sr-only">&nbsp;at&nbsp;</span>
-      <span className="text-nowrap">{hijriDate}</span>
+      <span className={`italic ${size === "sm" ? "text-sm" : "text-base"}`}>{hijriDate}</span>
     </div>
   );
 }
