@@ -23,7 +23,7 @@ description:
 This question includes Ayahs (Qur’anic verses) which the Qadianis (a deviant sect) quote as evidence for their opinion. They say that ‘Isa (Jesus) is dead and buried. I hope you will explain these Ayahs and refute their claims.
 
 In the first Ayah is the saying of Allah (Exalted be He):
-> “The Messiah [‘Isâ (Jesus)], son of Maryam (Mary), was no more than a Messenger; many were the Messengers that passed away before him. His mother [Maryam (Mary)] was a Siddîqah [i.e. she believed in the Words of Allâh and His Books (see Verse 66:12)]. They both used to eat food (as any other human being, while Allâh does not eat).” [Qur'an, Al-Maidah: 75]
+> **“The Messiah [‘Isâ (Jesus)], son of Maryam (Mary), was no more than a Messenger; many were the Messengers that passed away before him. His mother [Maryam (Mary)] was a Siddîqah [i.e. she believed in the Words of Allâh and His Books (see Verse 66:12)]. They both used to eat food (as any other human being, while Allâh does not eat).”** [Qur'an, Al-Maidah: 75]
 
 ## Answer: 
 
@@ -42,7 +42,7 @@ Also the following Ayah from Surah (Qur'anic chapter) Al-An`am explains this: �
 <hr/>
 
 The second Ayah is the saying of Allah (Exalted be He): 
-> “And We never sent before you (O Muhammad (peace be upon him)) any of the Messengers but verily, they ate food and walked in the markets.” [Qur'an, Al-Furqan: 20]
+> **“And We never sent before you (O Muhammad (peace be upon him)) any of the Messengers but verily, they ate food and walked in the markets.”** [Qur'an, Al-Furqan: 20]
 
 ## Response: 
 
@@ -52,7 +52,7 @@ The wisdom behind this Ayah is refuting the claims of those who deny the message
 
 The third Ayah is the saying of Allah (Exalted be He):
 
-> “And We did not create them (the Messengers, with) bodies that ate not food, nor were they immortals.” [Qur'an, Al-Anbiya: 8]
+> **“And We did not create them (the Messengers, with) bodies that ate not food, nor were they immortals.”** [Qur'an, Al-Anbiya: 8]
 
 ## Response: 
 
@@ -62,7 +62,7 @@ There is nothing in this Ayah that says ‘Isa (peace be upon him) died as a res
 
 The fourth Ayah is the saying of Allah (Exalted be He):
 
-> “…and you will not find any change in the Way of Allâh.” [Qur'an, Al-Ahzab: 62]
+> **“…and you will not find any change in the Way of Allâh.”** [Qur'an, Al-Ahzab: 62]
 
 ## Response:
 
@@ -72,14 +72,17 @@ Even though this Ayah is general in meaning, it has some exceptions. Allah provi
 
 The fifth Ayah is the saying of Allah (Exalted be He):
 
-> “He [‘Isâ (Jesus)] was not more than a slave. We granted Our Favour to him, and We made him an example for the Children of Israel (i.e. his creation without a father).” [Qur'an, Al-Zukhruf: 59]
+> **“He [‘Isâ (Jesus)] was not more than a slave. We granted Our Favour to him, and We made him an example for the Children of Israel (i.e. his creation without a father).”** [Qur'an, Al-Zukhruf: 59]
 
 ## Response: 
 
 This Ayah (Qur'anic verse) proves that ‘Isa (peace be upon him) is a servant to Allah, and that Allah blessed him with the Message and that he is not a lord or a god. This Ayah is a sign that indicates Allah’s perfect might. ‘Isa is an ideal to be followed in doing good and seeking guidance. This Ayah, however, is similar to the first Ayah and does not say anything about the life span of ‘Isa (peace be upon him). In fact, other religious texts speak about this as we have mentioned previously.
 
 <hr/>
+
 The sixth Ayah is the saying of Allah (Exalted be He):
+
+> **“Say (O Muhammad (peace be upon him)): “Who then has the least power against Allâh, if He were to destroy the Messiah, son of Maryam (Mary), his mother, and all those who are on the earth together?””** [Qur'an, Al-Maidah: 17]
 
 ## Response: 
 
