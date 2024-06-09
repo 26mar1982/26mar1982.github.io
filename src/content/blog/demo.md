@@ -1,7 +1,7 @@
 ---
 author: 26Mar1982
-pubDatetime: 1445-12-3
-modDatetime: 1445-12-3
+pubDatetime: 1445-12-03
+modDatetime: 1445-12-03
 title: Demo
 slug: demo-post
 featured: false
