@@ -86,9 +86,38 @@ The sixth Ayah is the saying of Allah (Exalted be He):
 
 ## Response: 
 
-The beginning of this Ayah reads: “**Surely, in disbelief are they who say that Allâh is the Messiah, son of Maryam (Mary).**” [al-Maidah: 17] So, the saying of Allah (Exalted be He): “**Say (O Muhammad (peace be upon him)): “Who then has the least power against Allâh**” [al-Maidah: 17] refutes the claim of those who say that ‘Isa ( peace be upon him) is a god. The Ayah explains that ‘Isa and his mother are merely two weak Servants of Allah like any of the other beings that Allah has created. Allah could destroy ‘Isa, his mother, and all the creation on earth together, were it His will to destroy them. 
+The beginning of this Ayah reads: “**Surely, in disbelief are they who say that Allâh is the Messiah, son of Maryam (Mary).**” [Qur'an, Al-Maidah: 17] So, the saying of Allah (Exalted be He): “**Say (O Muhammad (peace be upon him)): “Who then has the least power against Allâh**” [Qur'an, Al-Maidah: 17] refutes the claim of those who say that ‘Isa ( peace be upon him) is a god. The Ayah explains that ‘Isa and his mother are merely two weak Servants of Allah like any of the other beings that Allah has created. Allah could destroy ‘Isa, his mother, and all the creation on earth together, were it His will to destroy them. 
 
 However, He did not make them all perish at the same time. In fact He predestined them to perish at specific times according to His Wisdom. So, His Wisdom required that ‘Isa stay alive when the Jews conspired against him, and after He raised him up till the moment when he descends to judge among people according to the Shari`ah of Muhammad (peace be upon him) and then dies, as we mentioned previously.
+
+<hr/>
+
+The seventh Ayah is the saying of Allah (Exalted be He):
+
+> **“And We made the son of Maryam (Mary) and his mother as a sign, and We gave them refuge on high ground, a place of rest, security and flowing streams.”** [Qur'an, Al-Mu’minun: 50]
+
+## Response: 
+
+Maryam (Mary)’s pregnancy of 'Isa (Jesus) which is contrary to the laws of nature, is one of the clear signs that confirm the Perfect Might of Allah (Exalted be He). Allah provided them with shelter on high fertile ground where there was much water and they felt stability. This happened in Jerusalem in Palestine as Mercy from Allah to both of them and a favor upon them both. This was in Palestine and not in Pakistan.
+
+This happened more than five hundred years before our Prophet Muhammad (peace be upon him) was born, not twelve centuries after the Hijrah (Prophet’s migration to Madinah). Whoever considers that the high ground is a place in Pakistan or that the son of Mary means Ghulam Ahmad, misinterprets the meaning of the Ayah and ascribes falsely to Allah what He does not say and fabricates historical facts.
+
+<hr/>
+
+The eighth Ayah is the saying of Allah (Exalted be He):
+
+> **“And (remember) when Allâh said: “O ‘Isâ (Jesus)! I will take you and raise you to Myself and clear you [of the forged statement that ‘Isâ (Jesus) is Allâh’s son] of those who disbelieve, and I will make those who follow you (Monotheists, who worship none but Allâh) superior to those who disbelieve [in the Oneness of Allâh, or disbelieve in some of His Messengers, e.g. Muhammad, ‘Isâ (Jesus), Mûsâ (Moses), etc., or in His Holy Books, e.g. The Taurât (Torah), the Injeel (Gospel), the Qur’ân]”** [Qur'an, Aal Imran: 55]
+
+## Response: 
+
+The Qadyanis take this Ayah as evidence of the death of ‘Isa (Jesus, peace be upon him) because they interpret ‘Isa’s sleeping as death! This is contrary to the authentic interpretations of the Salaf (righteous predecessors) who said that Allah took His Messenger ‘Isa alive from earth and raised him to Him. Allah thus saved him from those who disbelieved. 
+
+In addition, other religious texts from the Qur’an and the authentic Sunnah indicate that ‘Isa was raised alive, and that he will descend at the end of time, and that people of the Scriptures and others will all believe in him when he descends. As to what is reported from Ibn ‘Abbas (may Allah be pleased with them both) that ‘Isa’s sleeping in the Ayah is interpreted as his death, it is not an authentic narration because its Sanad (chain of narrations) is disconnected. It is reported by ‘Ali ibn Abu Talhah from Ibn ‘Abbas. However, ‘Ali did not hear from or see Ibn ‘Abbas.
+
+Also what it is reported from Wahb ibn Munabbih Al-Yamany that ‘Isa’s sleeping is interpreted as his death, is not an authentic narration, because it is reported by Muhammad ibn Is-haq from unspecified narrators from Wahb ibn Munabbih and Ibn Is-haq is Mudallis (a narrator who provides misleading information about his shaykh or the chain of narration). Besides, the chain of narrators includes an unknown narrator. This interpretation is no more than a possible meaning of Mutawafik which is interpreted differently. It is interpreted as Allah took ‘Isa from earth with his body and soul then raised him to Him alive. It is also interpreted as Allah made ‘Isa sleep, raised him and that `Isa will die after his descent at the end of time. The word “and” in the Ayah “I will make you sleep and raise you…” does not mean sleeping and raising will happen in order.
+
+In fact, it only means both of them will happen to one person. Usually when we have different views on an Ayah, we opt for the view which agrees with the surface meanings of other pieces of evidence, to reconcile such pieces of evidence and to accept the Muhkam (clearly decided Qur’anic verses) and refuse the Mutashabih (Qur’anic verses whose meanings are not clear or not completely agreed upon). This is the habit of firmly grounded scholars not those in whose hearts there is deviation (from the Truth). The latter follow the Ayahs that are not entirely clear, seeking Fitnah (polytheism and trials, etc.), and seeking their hidden meanings. May Allah protect us from them.
+
 
 
 
