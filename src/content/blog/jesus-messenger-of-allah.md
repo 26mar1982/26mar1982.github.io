@@ -160,3 +160,52 @@ The twelfth Ayah is the saying of Allah (Exalted be He):
 
 Allah revealed this Ayah to refute the belief of those who worship people other than Him, such as angels, ‘Uzair, ‘Isa, Lat, ‘Uzza, and Manat. This Ayah explains that these beings cannot create anything even a small insect. In fact, they are all creatures whose Lord is Allah. They die and do not live eternally. But the other evidence indicates that ‘Isa (peace be upon him) is alive. He will descend one day to judge among people according to the Islamic Shari`ah brought by Muhammad (peace be upon him) and then he will die.
 
+<hr/>
+
+The thirteenth Ayah is the saying of Allah (Exalted be He):
+
+> **“Say (O Muslims), “We believe in Allâh and that which has been sent down to us and that which has been sent down to Ibrâhîm (Abraham), Ismâ‘îl (Ishmael), Ishâq (Isaac), Ya‘qûb (Jacob), and to Al-Asbât [the offspring of the twelve sons of Ya‘qûb (Jacob)], and that which has been given to Mûsâ (Moses) and ‘Isâ (Jesus), and that which has been given to the Prophets from their Lord. We make no distinction between any of them, and to Him we have submitted (in Islâm).””** [Qur'an, Al-Baqarah: 136]
+
+## Response: 
+
+In this Ayah, Allah commands mankind to believe in all the prophets, and all that has been revealed to them. Allah (Exalted be He) explains that He does not make any distinction between the necessity of believing in all prophets and all that has been revealed to them. Also this Ayah is a refutation of the sayings of the Jews and the Christians who said: “**Be Jews or Christians [so] you will be guided.**” Allah refutes their sayings by addressing Prophet Muhammad (peace be upon him) saying: “**Say (to them O Muhammad), “Nay, (we follow) only the religion of Ibrâhîm (Abraham), Hanîfa [Islâmic Monotheism, i.e. to worship none but Allâh (Alone)], and he was not of Al-Mushrikûn (those who worshipped others along with Allâh - see V.2:105).**” [Qur'an, Al-Baqarah: 135] This means that Allah does not make distinction between prophets in matters of life and death as the context of the Ayahs does not imply this. 
+
+In fact, the Ayahs confirm what we have mentioned. Besides, the Messengers did not call people to otherwise. To suggest that the Ayah means otherwise is twisting the meaning of the Ayah. Even if we say that the meaning of this Ayah: “**We make no distinction between any of them**” [Qur'an, Al-Baqarah: 136] is general and applies to the life and death of prophets, hard evidence in reality and religious texts explain that there is difference between prophets in their lives and deaths, the time and place of their lives and deaths, the span of their lives, and so on. 
+
+Therefore, ‘Isa’s life span, the place where he lived, and his death are one of the issues in which Allah made him distinct compared to his brother prophets according to previous texts.
+
+<hr/>
+
+The fourteenth Ayah is the saying of Allah (Exalted be He):
+
+> **“That was a nation who has passed away. They shall receive the reward of what they earned and you of what you earn. And you will not be asked of what they used to do.”** [Qur'an, Al-Baqarah: 134]
+
+## Response: 
+
+This Ayah means that every human being will be judged according to his deeds not others’ deeds and that other people will not be held responsible for his deeds as Allah (Exalted be He) says: “**Every person is a pledge for that which he has earned.**” [Qur'an, At-Tur: 21] And: “**…and no bearer of burdens shall bear the burden of another.**” [Qur'an, Al-An’am: 124] So, a human has to do their best in doing good deeds and avoiding evil ones. In addition, they should not depend on others to boast about them or to be safe from torture in Doomsday whether by drawing closer to them or glorifying them in life.
+
+Even if ‘Isa (peace be upon him) is one of the past nations, he is distinct in being raised to heaven and staying alive then descending at the end of time, according to evidence from the Qur’an and Sunnah as we mentioned previously. One of the basic principles in Islamic Shari`ah is that particular texts limit general texts and this applies to these texts at hand.
+
+<hr/>
+
+The fifteenth and sixteenth Ayah is the saying of Allah (Exalted be He):
+
+> **“For surely; they killed him not [i.e. ‘Isâ (Jesus), son of Maryam (Mary) عليهما السلام]: But Allâh raised him [‘Isâ (Jesus)] up (with his body and soul) unto Himself (and he عليه السلام is in the heavens). And Allâh is Ever All-Powerful, All-Wise.”** [Qur'an, An-Nisa: 157-158]
+
+> **“And there is none of the people of the Scripture (Jews and Christians) but must believe in him [‘Isâ (Jesus), son of Maryam (Mary), as only a Messenger of Allâh and a human being] before his [‘Isâ (Jesus) عليه السلام) or a Jew’s or a Christian’s] death (at the time of the appearance of the angel of death). And on the Day of Resurrection, he [‘Isâ (Jesus)] will be a witness against them.”** [Qur'an, An-Nisa: 159]
+
+## Response: 
+
+We have spoken about these two Ayahs previously when we discussed the first, second, third and fourth Ayahs. Generally, to conform their claim that `Isa (peace be upon him) is dead and buried, the Qadianis depend on the following: 
+
+- General Ayahs where the general meaning is limited by particular Ayahs and Hadiths that confirm Isa’s being raised alive to heaven and staying alive there till he descends at the end of time to judge among people according to the law of the Qur’an. The Qadyanis accept the general meaning of Ayahs even if this meaning is limited by other evidence, and this is totally wrong. This contradicts the rules and basic Islamic principles.
+- General Ayahs explained by other religious texts that must be considered. However, the Qadyanis accept these Ayahs’ general meaning just to confirm the false views they hold regardless of Muhkam (clearly decided Qur’anic verses, mostly concerning legal rulings) that explain them. This is the habit of those in whose hearts there is deviation (from the Truth) and hypocrisy and those who follow only evidence that is not entirely clear from the Qur’an and Sunnah, seeking Fitnah (polytheism and trials, etc.), and seeking their hidden meanings that confirm their own purposes.
+- Sayings which are falsely ascribed to the Salaf (righteous predecessors). We explained this when discussing the eighth Ayah which reads: “**And (remember) when Allâh said: “O ‘Isâ (Jesus)! I will take you and raise you to Myself**” [Qur'an, Aal Imran: 55]
+
+Those Qadianis prefer these sayings as they confirm their own false views. Through these sayings, they delude ignorant people. They do not examine the Isnad (chain of narration) of these sayings either out of their ignorance or out of a desire to misrepresent and deceive people and spread false views. Their goal is only to spread Fitnah (polytheism and trials, etc.) as Allah (Exalted be He) says: “**It is He Who has sent down to you (Muhammad) the Book (this Qur’ân). In it are Verses that are entirely clear, they are the foundations of the Book [and those are the Verses of Al-Ahkâm (commandments), Al-Fara’id (obligatory duties) and Al-Hudud (legal laws for the punishment of thieves, adulterers)]; and others not entirely clear. So as for those in whose hearts there is a deviation (from the truth) they follow that which is not entirely clear thereof, seeking Al-Fitnah (polytheism and trials), and seeking for its hidden meanings, but none knows its hidden meanings save Allâh. And those who are firmly grounded in knowledge say: “We believe in it; the whole of it (clear and unclear Verses) are from our Lord.” And none receive admonition except men of understanding. (Tafsir At-Tabarî).**” [Qur'an, Aal Imran: 7]
+
+Also Al-Bukhari and others narrated on the authority of ‘Aishah (may Allah be pleased with her) that she said: “Allah’s Messenger (peace be upon him) recited the Ayah: “**It is He Who has sent down to you (Muhammad) the Book (this Qur’ân). In it are Verses that are entirely clear, they are the foundations of the Book [and those are the Verses of Al-Ahkâm (commandments), Al-Fara’id (obligatory duties) and Al-Hudud (legal laws for the punishment of thieves, adulterers)]; and others not entirely clear. So as for those in whose hearts there is a deviation (from the truth) they follow that which is not entirely clear thereof, seeking Al-Fitnah (polytheism and trials), and seeking for its hidden meanings, but none knows its hidden meanings save Allâh.**” [Qur'an, Aal Imran: 7] Till Allah’s saying: “**…men of understanding**” [Qur'an, Aal Imran: 7] Then she said that Allah’s Messenger (peace be upon him) said: If you see those who follow thereof that is not entirely clear, then they are those whom Allah has named [as having deviation (from the Truth)]. So, beware of them.” [1] 
+
+From all this it becomes clear to the person asking these questions that he should refer to the previously explained Ayahs to understand the rest of the similar Ayahs. May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
+
+[1]: Al-Bukhari, Sahih, Book on Tafsir, no. 4547; Muslim, Sahih, Book on knowledge, no. 2665; Al-Tirmidhy, Sunan, Book on Tafsir, no. 2994; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4598; Ibn Majah, Sunan, Introduction, no. 47; Ahmad, Musnad, vol. 6, p. 48; and Al-Darimy, Sunan Introduction, no. 145. 
