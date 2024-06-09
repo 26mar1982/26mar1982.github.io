@@ -8,6 +8,7 @@ const blog = defineCollection({
       author: z.string().default(SITE.author),
       pubDatetime: z.date(),
       modDatetime: z.date().optional().nullable(),
+      hijriDate: z.string(),
       title: z.string(),
       featured: z.boolean().optional(),
       draft: z.boolean().optional(),
