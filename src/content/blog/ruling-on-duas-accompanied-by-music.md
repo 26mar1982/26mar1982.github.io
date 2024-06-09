@@ -12,10 +12,8 @@ muftis: Shaykh Ibn Baz, Shaykh Abdul-Razzaq Al-Afifi, Shaykh Abdullah ibn Ghuday
 tags:
   - alifta
   - fatwas
-  - supplications
   - music
   - bidah
-  - heresy
 description:
   This is not permissible, for music in itself is haram and making supplications accompanied by music is mockery and mixing worship with amusement. 
 ---
