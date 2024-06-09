@@ -3,6 +3,7 @@ import { LOCALE } from "@config";
 interface DatetimesProps {
   pubDatetime: string | Date;
   modDatetime: string | Date | undefined | null;
+  hijriDate: string | Date | undefined | null;
 }
 
 interface Props extends DatetimesProps {
@@ -13,6 +14,7 @@ interface Props extends DatetimesProps {
 export default function Datetime({
   pubDatetime,
   modDatetime,
+  hijriDate,
   size = "sm",
   className,
 }: Props) {
@@ -39,6 +41,7 @@ export default function Datetime({
         <FormattedDatetime
           pubDatetime={pubDatetime}
           modDatetime={modDatetime}
+          hijriDate={hijriDate}
         />
       </span>
     </div>
