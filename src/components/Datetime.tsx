@@ -3,7 +3,6 @@ import { LOCALE } from "@config";
 interface DatetimesProps {
   pubDatetime: string | Date;
   modDatetime: string | Date | undefined | null;
-  hijriDate: string | Date | undefined | null;
 }
 
 interface Props extends DatetimesProps {
@@ -32,10 +31,11 @@ export default function Datetime({
         <FormattedDatetime
           pubDatetime={pubDatetime}
           modDatetime={modDatetime}
-          hijriDate={hijriDate}
         />
       </span>
-      <span>{hijriDate}</span>
+      <span aria-hidden="true"> | </span>
+      <span className="sr-only">&nbsp;at&nbsp;</span>
+      <span className="text-nowrap">{hijriDate}</span>
     </div>
   );
 }
