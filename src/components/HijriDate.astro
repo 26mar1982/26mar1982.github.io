@@ -1,4 +1,6 @@
 ---
+import type { CollectionEntry } from "astro:content";
+const { post } = Astro.props;
 const { hijriDate } = post.data;
 ---
 <span>{hijriDate}</span>
