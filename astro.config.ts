@@ -19,6 +19,7 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [
+      remarkReadingTime,
       remarkToc,
       [
         remarkCollapse,
@@ -26,7 +27,6 @@ export default defineConfig({
           test: "Table of contents",
         },
       ],
-      [remarkReadingTime],
     ],
     shikiConfig: {
       theme: "one-dark-pro",
