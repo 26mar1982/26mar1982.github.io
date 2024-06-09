@@ -28,7 +28,6 @@ const {
   tags,
 } = post.data;
 
-const post = await CollectionEntry('posts', 'hijriDate')
 const { Content } = await post.render();
 
 const ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
@@ -78,7 +77,7 @@ const layoutProps = {
       size="lg"
       className="my-2"
     />
-    <p>Posted on: {post.data.hijriDate}</p>
+    <p>Posted on: {post.hijriDate}</p>
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
     </article>
