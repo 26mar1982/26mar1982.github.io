@@ -2,7 +2,7 @@
 author: 26Mar1982
 pubDatetime: 2024-06-09
 modDatetime: 2024-06-09
-hijriDate: 1445 Dhul-Hijjah 03
+hijriDate: 03 Dhul-Hijjah 1445
 title: Demo Post
 slug: demo-post
 featured: false
