@@ -18,7 +18,7 @@ tags:
   - fatwas
   - festivals
 description:
-  Valentine’s Day comes under imitating the people because it is an idolatrous Christian festival, so it is not permissible for a Muslim who believes in Allah and the Last Day to observe it or approve of it or congratulate people on it.
+  It is haram for the Muslim to help with this festival or any other haram celebration in any way, be it food, drink, buying, selling, manufacturing, corresponding, advertising or in any other way, because all of that constitutes helping one another in sin and transgression.
 ---
 
 ## Question: 
