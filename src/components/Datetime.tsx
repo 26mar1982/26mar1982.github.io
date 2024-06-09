@@ -13,6 +13,7 @@ interface Props extends DatetimesProps {
 export default function Datetime({
   pubDatetime,
   modDatetime,
+  hijriDate,
   size = "sm",
   className,
 }: Props) {
