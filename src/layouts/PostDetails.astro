@@ -76,11 +76,10 @@ const layoutProps = {
       size="lg"
       className="my-2"
     />
-    {hijriDate}
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
     </article>
-
+    <p>Hijri date: {hijriDate}</p>
     <ul class="my-8">
       {tags.map(tag => <Tag tag={slugifyStr(tag)} />)}
     </ul>
