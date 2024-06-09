@@ -14,6 +14,8 @@ tags:
   - fatwas
   - nonmuslims
   - exegesis
+  - sects
+  - qadianis
 description:
   Surely, in disbelief are they who say that Allâh is the Messiah, son of Mary.
 ---
