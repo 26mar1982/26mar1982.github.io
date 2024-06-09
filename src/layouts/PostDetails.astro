@@ -28,6 +28,7 @@ const {
   tags,
 } = post.data;
 
+const post = await CollectionEntry('posts', 'hijriDate')
 const { Content } = await post.render();
 
 const ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
