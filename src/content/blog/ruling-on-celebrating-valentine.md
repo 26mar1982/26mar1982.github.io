@@ -8,11 +8,7 @@ slug: alifta-21203
 featured: false
 draft: false
 source: Fatawa Al-Lajnah Al-Da’imah 2/262-264, Fatwa no. 21203
-muftis:
-  - Shaykh Abdul-Aziz Aal Al-Shaykh
-  - Shaykh Abdullah ibn Ghudayyan
-  - Shaykh Salih Al-Fawzan
-  - Shaykh Bakr Abu Zayd
+muftis: Shaykh Abdul-Aziz Aal Al-Shaykh, Shaykh Abdullah ibn Ghudayyan, Shaykh Salih Al-Fawzan, Shaykh Bakr Abu Zayd
 tags:
   - alifta
   - fatwas
