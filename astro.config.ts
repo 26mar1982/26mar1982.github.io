@@ -5,7 +5,6 @@ import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
-import { remarkReadingTime } from "./src/utils/readTime.ts";
 
 // https://astro.build/config
 export default defineConfig({
@@ -18,7 +17,7 @@ export default defineConfig({
     sitemap(),
   ],
   markdown: {
-      remarkPlugins: [
+    remarkPlugins: [
       remarkToc,
       [
         remarkCollapse,
