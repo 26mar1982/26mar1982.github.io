@@ -4,7 +4,7 @@ pubDatetime: 2024-06-09
 modDatetime: 2024-06-09
 hijriDate: 03 Dhul-Hijjah 1445
 title: Ruling On Supplications Accompanied By Music
-slug: alifta-16376
+slug: alifta-6914‏
 featured: false
 draft: false
 source: Fatawa Al-Lajnah Ad-Da'imah 26/227-228, Fatwa no. 6914‏, Question 14
