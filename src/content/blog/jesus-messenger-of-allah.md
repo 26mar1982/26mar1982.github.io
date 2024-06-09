@@ -118,6 +118,43 @@ Also what it is reported from Wahb ibn Munabbih Al-Yamany that ‘Isa’s sleepi
 
 In fact, it only means both of them will happen to one person. Usually when we have different views on an Ayah, we opt for the view which agrees with the surface meanings of other pieces of evidence, to reconcile such pieces of evidence and to accept the Muhkam (clearly decided Qur’anic verses) and refuse the Mutashabih (Qur’anic verses whose meanings are not clear or not completely agreed upon). This is the habit of firmly grounded scholars not those in whose hearts there is deviation (from the Truth). The latter follow the Ayahs that are not entirely clear, seeking Fitnah (polytheism and trials, etc.), and seeking their hidden meanings. May Allah protect us from them.
 
+<hr/>
 
+The ninth Ayah is the saying of Allah (Exalted be He):
 
+> **“And I was a witness over them while I dwelt amongst them, but when You took me up, You were the Watcher over them”** [Qur'an, Al-Maidah: 117]
+
+## Response: 
+
+Taking this Ayah as evidence of the death of ‘Isa (peace be upon him) before being raised to heaven or before his descent at the end of time, is based on interpreting ‘Isa’s sleeping as death. We mentioned this when speaking about the eighth Ayah. We also mentioned that this interpretation is wrong and contrary to the interpretation of the Salaf (righteous predecessors) who combine the authentic pieces of evidence from the Qur’an and the Sunnah.
+
+<hr/>
+
+The tenth Ayah is the saying of Allah (Exalted be He):
+
+> **“And He has made me blessed wheresoever I be, and has enjoined on me Salât (prayer), and Zakât, as long as I live.”** [Qur'an, Maryam: 31]
+
+## Response: 
+
+In this Ayah Allah (Exalted be He) reports the speech of ‘Isa (peace be upon him) while he was in the cradle. This explains that Allah enjoined `Isa to devote Salah (prayer), Zakah (obligatory charity) to Allah as long as he is alive. It is not about ‘Isa’s life span or when he will die. The previous evidence indicates this meaning. General religious texts should be reconciled with detailed religious texts. Evidence should not be used out of context. We should not seek the Mutashabih (Qur’anic verses whose meanings are not clear or not completely agreed upon). All these pieces of evidence are from Allah and they explain and bear one another out.
+
+<hr/>
+
+The eleventh Ayah is the saying of Allah (Exalted be He):
+
+> **“And Salâm (peace) be upon me the day I was born, and the day I die, and the day I shall be raised alive!”** [Qur'an, Maryam: 33]
+
+## Response: 
+
+Like the previous Ayah, this Ayah confirms that Allah will grant `Isa peace and safety in all cases. It does not speak about his life span or the time when he will die. So, it is incumbent upon us to refer to the other texts which explain this as mentioned previously.
+
+<hr/>
+
+The twelfth Ayah is the saying of Allah (Exalted be He):
+
+> **“Those whom they (Al-Mushrikûn) invoke besides Allâh have not created anything, but are themselves created. (They are) dead, not alive”** [Qur'an, An-Nahl: 20-21]
+
+## Response: 
+
+Allah revealed this Ayah to refute the belief of those who worship people other than Him, such as angels, ‘Uzair, ‘Isa, Lat, ‘Uzza, and Manat. This Ayah explains that these beings cannot create anything even a small insect. In fact, they are all creatures whose Lord is Allah. They die and do not live eternally. But the other evidence indicates that ‘Isa (peace be upon him) is alive. He will descend one day to judge among people according to the Islamic Shari`ah brought by Muhammad (peace be upon him) and then he will die.
 
