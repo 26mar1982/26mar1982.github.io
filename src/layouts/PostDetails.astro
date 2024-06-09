@@ -72,10 +72,11 @@ const layoutProps = {
     <Datetime
       pubDatetime={pubDatetime}
       modDatetime={modDatetime}
+      hijriDate={hijriDate}
       size="lg"
       className="my-2"
     />
-    <p>Posted on: {post.data.hijriDate} by {author}</p>
+    <p>Posted on: {hijriDate} by {author}</p>
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
     </article>
