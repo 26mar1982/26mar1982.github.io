@@ -2,7 +2,7 @@
 author: 26Mar1982
 pubDatetime: 2024-06-09
 modDatetime: 2024-06-09
-hijriDate: 04 Dhul-Hijjah 1445
+hijriDate: 03 Dhul-Hijjah 1445
 title: Ruling On Saying God Is Omnipresent
 slug: alifta-16376
 featured: false
