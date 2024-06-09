@@ -20,7 +20,7 @@ export default function Datetime({
 }: Props) {
   return (
     <div className={`flex items-center space-x-2 opacity-80 ${className}`}>
-      Published: 
+      
       {modDatetime && modDatetime > pubDatetime ? (
         <span className={`italic ${size === "sm" ? "text-sm" : "text-base"}`}>
           Updated:
@@ -35,6 +35,7 @@ export default function Datetime({
           hijriDate={hijriDate}
         />
       </span>
+      <span>{hijriDate}</span>
     </div>
   );
 }
