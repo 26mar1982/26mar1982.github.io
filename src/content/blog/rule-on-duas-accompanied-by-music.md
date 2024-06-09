@@ -14,6 +14,7 @@ tags:
   - fatwas
   - music
   - bidah
+  - heresy
 description:
   This is not permissible, for music in itself is haram and making supplications accompanied by music is mockery and mixing worship with amusement. 
 ---
