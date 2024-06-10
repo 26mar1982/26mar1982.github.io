@@ -1,8 +1,8 @@
 ---
 author: 26Mar1982
-pubDatetime: 2024-06-09
-modDatetime: 2024-06-09
-hijriDate: 03 Dhul-Hijjah 1445
+pubDatetime: 2024-06-10
+modDatetime: 2024-06-10
+hijriDate: 04 Dhul-Hijjah 1445
 title: How To Achieve Tawhid
 slug: how-to-achieve-tawhid
 featured: false
