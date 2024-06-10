@@ -11,6 +11,13 @@ export const SITE: Site = {
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
 
+export const languages = {
+  en: 'English',
+  ar: 'عربي',
+};
+
+export const defaultLang = 'en';
+
 export const LOCALE = {
   lang: "en", // html lang code. Set this empty and default will be "en"
   locales: ["en", "ar"],
