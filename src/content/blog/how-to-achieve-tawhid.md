@@ -15,8 +15,7 @@ tags:
   - fatwas
   - audios
 description:
-  A Muslim can achieve Tawhid by avoiding sins, all means and elements of Shirk (associating 
-others with Allah in His Divinity or worship), and Bid'ah (innovation in Islam).
+  A Muslim can achieve Tawhid by avoiding sins, all means and elements of polytheism and bid'ah.
 ---
 
 ### Question: 
