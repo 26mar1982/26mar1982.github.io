@@ -3,7 +3,7 @@ author: 26Mar1982
 pubDatetime: 2024-06-09
 modDatetime: 2024-06-09
 hijriDate: 03 Dhul-Hijjah 1445
-title: How to achieve Tawhid
+title: How To Achieve Tawhid
 slug: how-to-achieve-tawhid
 featured: false
 draft: false
@@ -20,8 +20,7 @@ description:
 ---
 
 <audio controls>
- <source src="https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59520.mp3" type="audio/mpeg"/>
- <p>Your browser does not support the audio element.</p>
+ <source src="https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59520.mp3" type="audio/mpeg"/><p>Your browser does not support the audio element.</p>
 </audio>
 
 ### Question: 
