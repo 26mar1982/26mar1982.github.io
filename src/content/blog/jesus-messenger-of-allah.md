@@ -3,7 +3,7 @@ author: 26Mar1982
 pubDatetime: 2024-06-09
 modDatetime: 2024-06-09
 hijriDate: 03 Dhul-Hijjah 1445
-title: Jesus was no more than a Messenger of Allah
+title: Jesus Was No More Than A Messenger Of Allah
 slug: alifta-1621
 featured: false
 draft: false
@@ -16,18 +16,38 @@ tags:
   - exegesis
   - sects
   - qadianis
+  - jesus
 description:
   Surely, in disbelief are they who say that Allâh is the Messiah, son of Mary.
 ---
 
 ## Question:
 
-This question includes Ayahs (Qur’anic verses) which the Qadianis (a deviant sect) quote as evidence for their opinion. They say that ‘Isa (Jesus) is dead and buried. I hope you will explain these Ayahs and refute their claims.
+This question includes Ayahs (Qur’anic verses) which the Qadianis (a deviant sect) quote as evidence for their opinion. They say that ‘Isa (Jesus) is dead and buried. I hope you will explain these Ayahs (Quranic verses) and refute their claims :
 
+**Table of content:**
+- [The First Ayah](#item1)
+- [The Second Ayah](#item2)
+- [The Third Ayah](#item3)
+- [The Fourth Ayah](#item4)
+- [The Fifth Ayah](#item5)
+- [The Sixth Ayah](#item6)
+- [The Seventh Ayah](#item7)
+- [The Eighth Ayah](#item8)
+- [The Ninth Ayah](#item9)
+- [The Tenth Ayah](#item10)
+- [The Eleventh Ayah](#item11)
+- [The Twelfth Ayah](#item12)
+- [The Thirteenth Ayah](#item13)
+- [The Fourteenth Ayah](#item14)
+- [The Fifteenth Ayah](#item15)
+
+<!-- headings -->
+<a id="item1"></a>
 In the first Ayah is the saying of Allah (Exalted be He):
 > **“The Messiah [‘Isâ (Jesus)], son of Maryam (Mary), was no more than a Messenger; many were the Messengers that passed away before him. His mother [Maryam (Mary)] was a Siddîqah [i.e. she believed in the Words of Allâh and His Books (see Verse 66:12)]. They both used to eat food (as any other human being, while Allâh does not eat).”** [Qur'an, Al-Maidah: 75]
 
-## Answer: 
+## Explanation: 
 
 The wisdom behind this Ayah is refuting the claims of those who say, as in the Qur’an: “**Surely, in disbelief are they who say that Allâh is the Messiah**” [Qur'an, Al-Maidah: 17] and: “**Allâh is the third of the three (in a Trinity).**” [Qur'an, Al-Maidah: 73]. 
 
@@ -41,8 +61,7 @@ This Ayah is preceded by Allah’s saying: “**Surely, in disbelief are they wh
 
 Also the following Ayah from Surah (Qur'anic chapter) Al-An`am explains this: ”**Say (O Muhammad (peace be upon him)): “Shall I take as a Walî (Helper, Protector, Lord or God) any other than Allâh, the Creator of the heavens and the earth? And it is He Who feeds but is not fed.”**” [Qur'an, Al-An’am: 14]
 
-<hr/>
-
+<a id="item2"></a>
 The second Ayah is the saying of Allah (Exalted be He): 
 > **“And We never sent before you (O Muhammad (peace be upon him)) any of the Messengers but verily, they ate food and walked in the markets.”** [Qur'an, Al-Furqan: 20]
 
@@ -50,8 +69,7 @@ The second Ayah is the saying of Allah (Exalted be He):
 
 The wisdom behind this Ayah is refuting the claims of those who deny the message of Muhammad (peace be upon him) saying that a Messenger should be an angel not a human being. Allah refutes their claim explaining that He (Exalted be He) selects Messengers from among humans. They eat food and walk in the markets just like other humans. The Ayah, however, does not say anything about the lifespan of ‘Isa (Jesus - peace be upon him). Other Ayahs and Hadiths state that Allah raised `Isa alive. They also state that he will descend at the end of time, judge among people and then die as we have mentioned before.
 
-<hr/>
-
+<a id="item3"></a>
 The third Ayah is the saying of Allah (Exalted be He):
 
 > **“And We did not create them (the Messengers, with) bodies that ate not food, nor were they immortals.”** [Qur'an, Al-Anbiya: 8]
@@ -60,8 +78,7 @@ The third Ayah is the saying of Allah (Exalted be He):
 
 There is nothing in this Ayah that says ‘Isa (peace be upon him) died as a result of the conspiracies of the Jews to kill and crucify him. In fact, this Ayah explains that prophets and messengers including ‘Isa are ordinary humans who eat food like other humans. It also indicates that they do not live eternally in worldly life. This is the belief of Ahl-us-Sunnah (those adhering to the Sunnah), for ‘Isa, like other Messengers, will die. But the Qur’an and Sunnah explain that he will die after his descent from heaven and after he judges justly among people, breaks the cross, and kills the swine, as we mentioned previously.
 
-<hr/>
-
+<a id="item4"></a>
 The fourth Ayah is the saying of Allah (Exalted be He):
 
 > **“…and you will not find any change in the Way of Allâh.”** [Qur'an, Al-Ahzab: 62]
@@ -70,8 +87,7 @@ The fourth Ayah is the saying of Allah (Exalted be He):
 
 Even though this Ayah is general in meaning, it has some exceptions. Allah provided His Messengers with signs and miracles to prove to their nations that their Messages were true. Such miracles include (Moses) Musa’s parting the sea into twelve dry paths by a simple strike of his staff, and ‘Isa’s curing those born blind, those suffering from leprosy, and bringing to life those who were dead by Allah’s will. Allah’s raising `Isa (peace be upon him) alive to Him, keeping him alive for centuries and making him descend later on, are similar exceptions for the general laws of nature. The same applies to other miracles by which Allah supports His Messengers. This is nothing strange.
 
-<hr/>
-
+<a id="item5"></a>
 The fifth Ayah is the saying of Allah (Exalted be He):
 
 > **“He [‘Isâ (Jesus)] was not more than a slave. We granted Our Favour to him, and We made him an example for the Children of Israel (i.e. his creation without a father).”** [Qur'an, Al-Zukhruf: 59]
@@ -80,8 +96,7 @@ The fifth Ayah is the saying of Allah (Exalted be He):
 
 This Ayah (Qur'anic verse) proves that ‘Isa (peace be upon him) is a servant to Allah, and that Allah blessed him with the Message and that he is not a lord or a god. This Ayah is a sign that indicates Allah’s perfect might. ‘Isa is an ideal to be followed in doing good and seeking guidance. This Ayah, however, is similar to the first Ayah and does not say anything about the life span of ‘Isa (peace be upon him). In fact, other religious texts speak about this as we have mentioned previously.
 
-<hr/>
-
+<a id="item6"></a>
 The sixth Ayah is the saying of Allah (Exalted be He):
 
 > **“Say (O Muhammad (peace be upon him)): “Who then has the least power against Allâh, if He were to destroy the Messiah, son of Maryam (Mary), his mother, and all those who are on the earth together?””** [Qur'an, Al-Maidah: 17]
@@ -92,8 +107,7 @@ The beginning of this Ayah reads: “**Surely, in disbelief are they who say tha
 
 However, He did not make them all perish at the same time. In fact He predestined them to perish at specific times according to His Wisdom. So, His Wisdom required that ‘Isa stay alive when the Jews conspired against him, and after He raised him up till the moment when he descends to judge among people according to the Shari`ah of Muhammad (peace be upon him) and then dies, as we mentioned previously.
 
-<hr/>
-
+<a id="item7"></a>
 The seventh Ayah is the saying of Allah (Exalted be He):
 
 > **“And We made the son of Maryam (Mary) and his mother as a sign, and We gave them refuge on high ground, a place of rest, security and flowing streams.”** [Qur'an, Al-Mu’minun: 50]
@@ -104,8 +118,8 @@ Maryam (Mary)’s pregnancy of 'Isa (Jesus) which is contrary to the laws of nat
 
 This happened more than five hundred years before our Prophet Muhammad (peace be upon him) was born, not twelve centuries after the Hijrah (Prophet’s migration to Madinah). Whoever considers that the high ground is a place in Pakistan or that the son of Mary means Ghulam Ahmad, misinterprets the meaning of the Ayah and ascribes falsely to Allah what He does not say and fabricates historical facts.
 
-<hr/>
 
+<a id="item8"></a>
 The eighth Ayah is the saying of Allah (Exalted be He):
 
 > **“And (remember) when Allâh said: “O ‘Isâ (Jesus)! I will take you and raise you to Myself and clear you [of the forged statement that ‘Isâ (Jesus) is Allâh’s son] of those who disbelieve, and I will make those who follow you (Monotheists, who worship none but Allâh) superior to those who disbelieve [in the Oneness of Allâh, or disbelieve in some of His Messengers, e.g. Muhammad, ‘Isâ (Jesus), Mûsâ (Moses), etc., or in His Holy Books, e.g. The Taurât (Torah), the Injeel (Gospel), the Qur’ân]”** [Qur'an, Aal Imran: 55]
@@ -120,8 +134,7 @@ Also what it is reported from Wahb ibn Munabbih Al-Yamany that ‘Isa’s sleepi
 
 In fact, it only means both of them will happen to one person. Usually when we have different views on an Ayah, we opt for the view which agrees with the surface meanings of other pieces of evidence, to reconcile such pieces of evidence and to accept the Muhkam (clearly decided Qur’anic verses) and refuse the Mutashabih (Qur’anic verses whose meanings are not clear or not completely agreed upon). This is the habit of firmly grounded scholars not those in whose hearts there is deviation (from the Truth). The latter follow the Ayahs that are not entirely clear, seeking Fitnah (polytheism and trials, etc.), and seeking their hidden meanings. May Allah protect us from them.
 
-<hr/>
-
+<a id="item9"></a>
 The ninth Ayah is the saying of Allah (Exalted be He):
 
 > **“And I was a witness over them while I dwelt amongst them, but when You took me up, You were the Watcher over them”** [Qur'an, Al-Maidah: 117]
@@ -130,8 +143,7 @@ The ninth Ayah is the saying of Allah (Exalted be He):
 
 Taking this Ayah as evidence of the death of ‘Isa (peace be upon him) before being raised to heaven or before his descent at the end of time, is based on interpreting ‘Isa’s sleeping as death. We mentioned this when speaking about the eighth Ayah. We also mentioned that this interpretation is wrong and contrary to the interpretation of the Salaf (righteous predecessors) who combine the authentic pieces of evidence from the Qur’an and the Sunnah.
 
-<hr/>
-
+<a id="item10"></a>
 The tenth Ayah is the saying of Allah (Exalted be He):
 
 > **“And He has made me blessed wheresoever I be, and has enjoined on me Salât (prayer), and Zakât, as long as I live.”** [Qur'an, Maryam: 31]
@@ -140,8 +152,7 @@ The tenth Ayah is the saying of Allah (Exalted be He):
 
 In this Ayah Allah (Exalted be He) reports the speech of ‘Isa (peace be upon him) while he was in the cradle. This explains that Allah enjoined `Isa to devote Salah (prayer), Zakah (obligatory charity) to Allah as long as he is alive. It is not about ‘Isa’s life span or when he will die. The previous evidence indicates this meaning. General religious texts should be reconciled with detailed religious texts. Evidence should not be used out of context. We should not seek the Mutashabih (Qur’anic verses whose meanings are not clear or not completely agreed upon). All these pieces of evidence are from Allah and they explain and bear one another out.
 
-<hr/>
-
+<a id="item11"></a>
 The eleventh Ayah is the saying of Allah (Exalted be He):
 
 > **“And Salâm (peace) be upon me the day I was born, and the day I die, and the day I shall be raised alive!”** [Qur'an, Maryam: 33]
@@ -150,8 +161,7 @@ The eleventh Ayah is the saying of Allah (Exalted be He):
 
 Like the previous Ayah, this Ayah confirms that Allah will grant `Isa peace and safety in all cases. It does not speak about his life span or the time when he will die. So, it is incumbent upon us to refer to the other texts which explain this as mentioned previously.
 
-<hr/>
-
+<a id="item12"></a>
 The twelfth Ayah is the saying of Allah (Exalted be He):
 
 > **“Those whom they (Al-Mushrikûn) invoke besides Allâh have not created anything, but are themselves created. (They are) dead, not alive”** [Qur'an, An-Nahl: 20-21]
@@ -160,8 +170,7 @@ The twelfth Ayah is the saying of Allah (Exalted be He):
 
 Allah revealed this Ayah to refute the belief of those who worship people other than Him, such as angels, ‘Uzair, ‘Isa, Lat, ‘Uzza, and Manat. This Ayah explains that these beings cannot create anything even a small insect. In fact, they are all creatures whose Lord is Allah. They die and do not live eternally. But the other evidence indicates that ‘Isa (peace be upon him) is alive. He will descend one day to judge among people according to the Islamic Shari`ah brought by Muhammad (peace be upon him) and then he will die.
 
-<hr/>
-
+<a id="item13"></a>
 The thirteenth Ayah is the saying of Allah (Exalted be He):
 
 > **“Say (O Muslims), “We believe in Allâh and that which has been sent down to us and that which has been sent down to Ibrâhîm (Abraham), Ismâ‘îl (Ishmael), Ishâq (Isaac), Ya‘qûb (Jacob), and to Al-Asbât [the offspring of the twelve sons of Ya‘qûb (Jacob)], and that which has been given to Mûsâ (Moses) and ‘Isâ (Jesus), and that which has been given to the Prophets from their Lord. We make no distinction between any of them, and to Him we have submitted (in Islâm).””** [Qur'an, Al-Baqarah: 136]
@@ -174,8 +183,7 @@ In fact, the Ayahs confirm what we have mentioned. Besides, the Messengers did n
 
 Therefore, ‘Isa’s life span, the place where he lived, and his death are one of the issues in which Allah made him distinct compared to his brother prophets according to previous texts.
 
-<hr/>
-
+<a id="item14"></a>
 The fourteenth Ayah is the saying of Allah (Exalted be He):
 
 > **“That was a nation who has passed away. They shall receive the reward of what they earned and you of what you earn. And you will not be asked of what they used to do.”** [Qur'an, Al-Baqarah: 134]
@@ -186,8 +194,7 @@ This Ayah means that every human being will be judged according to his deeds not
 
 Even if ‘Isa (peace be upon him) is one of the past nations, he is distinct in being raised to heaven and staying alive then descending at the end of time, according to evidence from the Qur’an and Sunnah as we mentioned previously. One of the basic principles in Islamic Shari`ah is that particular texts limit general texts and this applies to these texts at hand.
 
-<hr/>
-
+<a id="item15"></a>
 The fifteenth and sixteenth Ayah is the saying of Allah (Exalted be He):
 
 > **“For surely; they killed him not [i.e. ‘Isâ (Jesus), son of Maryam (Mary) عليهما السلام]: But Allâh raised him [‘Isâ (Jesus)] up (with his body and soul) unto Himself (and he عليه السلام is in the heavens). And Allâh is Ever All-Powerful, All-Wise.”** [Qur'an, An-Nisa: 157-158]
