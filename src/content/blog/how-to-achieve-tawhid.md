@@ -12,7 +12,7 @@ muftis: Shaykh Ibn Baz
 output: html_document
 audio: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59520.mp3
 tags:
-  - alifta
+  - sh.ibnbaz
   - fatwas
   - audios
 description:
