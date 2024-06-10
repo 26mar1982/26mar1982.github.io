@@ -7,7 +7,7 @@ title: How to achieve Tawhid
 slug: how-to-achieve-tawhid
 featured: false
 draft: false
-source: Fatawa Nur Ala Al-Darb
+source: Fatawa Nur Ala Al-Darb 595
 muftis: Shaykh Ibn Baz
 audio: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59520.mp3
 tags:
@@ -16,7 +16,13 @@ tags:
   - audios
 description:
   A Muslim can achieve Tawhid by avoiding sins, all means and elements of polytheism and bid'ah.
+output:
+  html_document
 ---
+
+<audio controls>
+    <source src="https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59520.mp3" type="audio/mp3"/>
+</audio>
 
 ### Question: 
 
