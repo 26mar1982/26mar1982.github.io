@@ -33,7 +33,7 @@ const { Content } = await post.render();
 
 const ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
 const ogUrl = new URL(
-  ogImageUrl ?? `/posts/${slugifyStr(title)}.png`,
+  ogImageUrl ?? `/fatwas/${slugifyStr(title)}.png`,
   Astro.url.origin
 ).href;
 
@@ -81,6 +81,7 @@ const layoutProps = {
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
     </article>
+    <hr/>
     <div class="my-8">
      <p>Source: <b>{source}</b></p>
      <p>Mufti(s): <b>{muftis}</b></p>
