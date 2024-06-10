@@ -12,7 +12,8 @@ export const SITE: Site = {
 };
 
 export const LOCALE = {
-  lang: ["en", "ar"], // html lang code. Set this empty and default will be "en"
+  lang: "en", // html lang code. Set this empty and default will be "en"
+  locales: ["en", "ar"],
   langTag: ["en-EN", "ar-SA"], // BCP 47 Language Tags. Set this empty [] to use the environment default
 } as const;
 
