@@ -7,13 +7,15 @@ export const defaultLang = 'en';
 
 export const ui = {
   en: {
-    'nav.home': 'Home',
+    'nav.posts': 'Posts',
     'nav.tags': 'Categories',
     'nav.search': 'Search',
+    'nav.about': 'About',
   },
   ar: {
-    'nav.home': 'الرئيسية',
-    'nav.tags': 'التصنيفات',
+    'nav.posts': 'مقالات',
+    'nav.tags': 'علامات',
     'nav.search': 'بحث',
+    'nav.about': 'معلومات عنا',
   },
 } as const;
