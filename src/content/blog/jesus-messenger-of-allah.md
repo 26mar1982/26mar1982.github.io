@@ -24,8 +24,6 @@ description:
 ## Question:
 
 This question includes Ayahs (Qur’anic verses) which the Qadianis (a deviant sect) quote as evidence for their opinion. They say that ‘Isa (Jesus) is dead and buried. I hope you will explain these Ayahs (Quranic verses) and refute their claims :
-
-**Table of content:**
 - [The First Ayah](#item1)
 - [The Second Ayah](#item2)
 - [The Third Ayah](#item3)
@@ -42,12 +40,15 @@ This question includes Ayahs (Qur’anic verses) which the Qadianis (a deviant s
 - [The Fourteenth Ayah](#item14)
 - [The Fifteenth Ayah](#item15)
 
+<hr/>
+
 <!-- headings -->
 <a id="item1"></a>
+### The First Ayah
 In the first Ayah is the saying of Allah (Exalted be He):
 > **“The Messiah [‘Isâ (Jesus)], son of Maryam (Mary), was no more than a Messenger; many were the Messengers that passed away before him. His mother [Maryam (Mary)] was a Siddîqah [i.e. she believed in the Words of Allâh and His Books (see Verse 66:12)]. They both used to eat food (as any other human being, while Allâh does not eat).”** [Qur'an, Al-Maidah: 75]
 
-## Explanation: 
+#### Explanation: 
 
 The wisdom behind this Ayah is refuting the claims of those who say, as in the Qur’an: “**Surely, in disbelief are they who say that Allâh is the Messiah**” [Qur'an, Al-Maidah: 17] and: “**Allâh is the third of the three (in a Trinity).**” [Qur'an, Al-Maidah: 73]. 
 
@@ -61,47 +62,57 @@ This Ayah is preceded by Allah’s saying: “**Surely, in disbelief are they wh
 
 Also the following Ayah from Surah (Qur'anic chapter) Al-An`am explains this: ”**Say (O Muhammad (peace be upon him)): “Shall I take as a Walî (Helper, Protector, Lord or God) any other than Allâh, the Creator of the heavens and the earth? And it is He Who feeds but is not fed.”**” [Qur'an, Al-An’am: 14]
 
+<hr/> 
 <a id="item2"></a>
+### The Second Ayah
 The second Ayah is the saying of Allah (Exalted be He): 
 > **“And We never sent before you (O Muhammad (peace be upon him)) any of the Messengers but verily, they ate food and walked in the markets.”** [Qur'an, Al-Furqan: 20]
 
-## Response: 
+#### Explanation: 
 
 The wisdom behind this Ayah is refuting the claims of those who deny the message of Muhammad (peace be upon him) saying that a Messenger should be an angel not a human being. Allah refutes their claim explaining that He (Exalted be He) selects Messengers from among humans. They eat food and walk in the markets just like other humans. The Ayah, however, does not say anything about the lifespan of ‘Isa (Jesus - peace be upon him). Other Ayahs and Hadiths state that Allah raised `Isa alive. They also state that he will descend at the end of time, judge among people and then die as we have mentioned before.
 
+<hr/>
 <a id="item3"></a>
+### The Third Ayah
 The third Ayah is the saying of Allah (Exalted be He):
 
 > **“And We did not create them (the Messengers, with) bodies that ate not food, nor were they immortals.”** [Qur'an, Al-Anbiya: 8]
 
-## Response: 
+#### Explanation: 
 
 There is nothing in this Ayah that says ‘Isa (peace be upon him) died as a result of the conspiracies of the Jews to kill and crucify him. In fact, this Ayah explains that prophets and messengers including ‘Isa are ordinary humans who eat food like other humans. It also indicates that they do not live eternally in worldly life. This is the belief of Ahl-us-Sunnah (those adhering to the Sunnah), for ‘Isa, like other Messengers, will die. But the Qur’an and Sunnah explain that he will die after his descent from heaven and after he judges justly among people, breaks the cross, and kills the swine, as we mentioned previously.
 
+<hr/>
 <a id="item4"></a>
+### The Fourth Ayah
 The fourth Ayah is the saying of Allah (Exalted be He):
 
 > **“…and you will not find any change in the Way of Allâh.”** [Qur'an, Al-Ahzab: 62]
 
-## Response:
+#### Explanation:
 
 Even though this Ayah is general in meaning, it has some exceptions. Allah provided His Messengers with signs and miracles to prove to their nations that their Messages were true. Such miracles include (Moses) Musa’s parting the sea into twelve dry paths by a simple strike of his staff, and ‘Isa’s curing those born blind, those suffering from leprosy, and bringing to life those who were dead by Allah’s will. Allah’s raising `Isa (peace be upon him) alive to Him, keeping him alive for centuries and making him descend later on, are similar exceptions for the general laws of nature. The same applies to other miracles by which Allah supports His Messengers. This is nothing strange.
 
+<hr/>
 <a id="item5"></a>
+### The Fifth Ayah
 The fifth Ayah is the saying of Allah (Exalted be He):
 
 > **“He [‘Isâ (Jesus)] was not more than a slave. We granted Our Favour to him, and We made him an example for the Children of Israel (i.e. his creation without a father).”** [Qur'an, Al-Zukhruf: 59]
 
-## Response: 
+#### Explanation:
 
 This Ayah (Qur'anic verse) proves that ‘Isa (peace be upon him) is a servant to Allah, and that Allah blessed him with the Message and that he is not a lord or a god. This Ayah is a sign that indicates Allah’s perfect might. ‘Isa is an ideal to be followed in doing good and seeking guidance. This Ayah, however, is similar to the first Ayah and does not say anything about the life span of ‘Isa (peace be upon him). In fact, other religious texts speak about this as we have mentioned previously.
 
+<hr/>
 <a id="item6"></a>
+### The Sixth Ayah
 The sixth Ayah is the saying of Allah (Exalted be He):
 
 > **“Say (O Muhammad (peace be upon him)): “Who then has the least power against Allâh, if He were to destroy the Messiah, son of Maryam (Mary), his mother, and all those who are on the earth together?””** [Qur'an, Al-Maidah: 17]
 
-## Response: 
+#### Explanation:
 
 The beginning of this Ayah reads: “**Surely, in disbelief are they who say that Allâh is the Messiah, son of Maryam (Mary).**” [Qur'an, Al-Maidah: 17] So, the saying of Allah (Exalted be He): “**Say (O Muhammad (peace be upon him)): “Who then has the least power against Allâh**” [Qur'an, Al-Maidah: 17] refutes the claim of those who say that ‘Isa ( peace be upon him) is a god. The Ayah explains that ‘Isa and his mother are merely two weak Servants of Allah like any of the other beings that Allah has created. Allah could destroy ‘Isa, his mother, and all the creation on earth together, were it His will to destroy them. 
 
