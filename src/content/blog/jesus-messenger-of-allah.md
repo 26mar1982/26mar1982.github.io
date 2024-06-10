@@ -40,6 +40,8 @@ This question includes Ayahs (Qur’anic verses) which the Qadianis (a deviant s
 - [The Fourteenth Ayah](#item14)
 - [The Fifteenth & Sixteenth Ayahs](#item15)
 
+## Answer: 
+
 <hr/>
 
 <a id="item1"></a>
