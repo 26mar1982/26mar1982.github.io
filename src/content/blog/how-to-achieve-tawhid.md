@@ -7,7 +7,7 @@ title: How to achieve Tawhid
 slug: how-to-achieve-tawhid
 featured: false
 draft: false
-source: Fatawa Nur 'Ala Al-Darb
+source: Fatawa Nur Ala Al-Darb
 muftis: Shaykh Ibn Baz
 audio: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59520.mp3
 tags:
