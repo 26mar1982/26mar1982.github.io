@@ -3,11 +3,11 @@ author: 26Mar1982
 pubDatetime: 2024-06-09
 modDatetime: 2024-06-09
 hijriDate: 03 Dhul-Hijjah 1445
-title: Jesus Was No More Than A Messenger Of Allah
+title: ما المسيح ابن مريم إلا رسول
 slug: ar-alifta-1621
 featured: false
 draft: false
-source: Fatawa Al-Lajnah Ad-Da'imah no. 1621, Question 7
+source: فتاوى اللجنة الدائمة 1621 س7
 muftis: Shaykh Ibn Baz, Shaykh Abdul-Razzaq Al-Afifi, Shaykh Abdullah ibn Ghudayyan, Shaykh Abdullah ibn Qa'ud
 tags:
   - alifta
