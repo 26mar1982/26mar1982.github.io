@@ -48,7 +48,6 @@ In the first Ayah is the saying of Allah (Exalted be He):
 > **“The Messiah [‘Isâ (Jesus)], son of Maryam (Mary), was no more than a Messenger; many were the Messengers that passed away before him. His mother [Maryam (Mary)] was a Siddîqah [i.e. she believed in the Words of Allâh and His Books (see Verse 66:12)]. They both used to eat food (as any other human being, while Allâh does not eat).”** [Qur'an, Al-Maidah: 75]
 
 #### Explanation: 
-
 The wisdom behind this Ayah is refuting the claims of those who say, as in the Qur’an: “**Surely, in disbelief are they who say that Allâh is the Messiah**” [Qur'an, Al-Maidah: 17] and: “**Allâh is the third of the three (in a Trinity).**” [Qur'an, Al-Maidah: 73]. 
 
 It also refutes the Saying of those who claim that ‘Isa is the son of Allah. It explains that the Christ ‘Isa (Jesus - peace be upon him) is not a lord or a god. In fact it proves that he is a mere Messenger whom Allah honored with this Message. He is like all the Messengers who were sent before him. He had a limited life span. 
@@ -119,7 +118,7 @@ However, He did not make them all perish at the same time. In fact He predestine
 <hr/>
 
 <a id="item7"></a>
-### The Sevent Ayah
+### The Seventh Ayah
 The seventh Ayah is the saying of Allah (Exalted be He):
 > **“And We made the son of Maryam (Mary) and his mother as a sign, and We gave them refuge on high ground, a place of rest, security and flowing streams.”** [Qur'an, Al-Mu’minun: 50]
 
@@ -152,7 +151,7 @@ The ninth Ayah is the saying of Allah (Exalted be He):
 
 > **“And I was a witness over them while I dwelt amongst them, but when You took me up, You were the Watcher over them”** [Qur'an, Al-Maidah: 117]
 
-## Response: 
+#### Explanation:  
 Taking this Ayah as evidence of the death of ‘Isa (peace be upon him) before being raised to heaven or before his descent at the end of time, is based on interpreting ‘Isa’s sleeping as death. We mentioned this when speaking about the eighth Ayah. We also mentioned that this interpretation is wrong and contrary to the interpretation of the Salaf (righteous predecessors) who combine the authentic pieces of evidence from the Qur’an and the Sunnah.
 
 <hr/>
@@ -170,7 +169,6 @@ In this Ayah Allah (Exalted be He) reports the speech of ‘Isa (peace be upon h
 <a id="item11"></a>
 ### The Eleventh Ayah
 The eleventh Ayah is the saying of Allah (Exalted be He):
-
 > **“And Salâm (peace) be upon me the day I was born, and the day I die, and the day I shall be raised alive!”** [Qur'an, Maryam: 33]
 
 #### Explanation:
