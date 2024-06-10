@@ -12,7 +12,6 @@ const blog = defineCollection({
       title: z.string(),
       source: z.string(),
       muftis: z.string(),
-      audio: z.string(),
       featured: z.boolean().optional(),
       draft: z.boolean().optional(),
       tags: z.array(z.string()).default(["others"]),
