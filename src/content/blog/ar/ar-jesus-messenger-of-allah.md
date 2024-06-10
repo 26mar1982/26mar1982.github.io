@@ -8,7 +8,7 @@ slug: ar-alifta-1621
 featured: false
 draft: false
 source: فتاوى اللجنة الدائمة 1621 س7
-muftis: Shaykh Ibn Baz, Shaykh Abdul-Razzaq Al-Afifi, Shaykh Abdullah ibn Ghudayyan, Shaykh Abdullah ibn Qa'ud
+muftis: الشيخ ابن باز ، الشيخ عبدالرزاق عفيفي ، الشيخ عبدالله بن غديان ، الشيخ عبدالله بن قعود 
 tags:
   - alifta
   - fatwas
@@ -22,7 +22,7 @@ description:
 ---
 
 ### السؤال
-س: مع هذه المسألة نصوص يستدل بها القاديانيون على موت عيسى ودفنه أرجو بيان تلك النصوص للرد عليهم :
+مع هذه المسألة نصوص يستدل بها القاديانيون على موت عيسى ودفنه أرجو بيان تلك النصوص للرد عليهم :
 
 - [الآية الأولى](#item1)
 - [الآية الثانية](#item2)
