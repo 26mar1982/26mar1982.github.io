@@ -2,7 +2,10 @@
 import { LOCALE, SITE } from "@config";
 import "@styles/base.css";
 import { ViewTransitions } from "astro:transitions";
+import LanguagePicker from '../components/LanguagePicker.astro';
+import { getLangFromUrl } from '../i18n/utils';
 
+const lang = getLangFromUrl(Astro.url);
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 
 export interface Props {
@@ -35,6 +38,7 @@ const socialImageURL = new URL(
 
 <!doctype html>
 <html
+  lang={lang} 
   lang=`${LOCALE.lang ?? "en"}`
   class={`${scrollSmooth && "scroll-smooth"}`}
 >
@@ -111,5 +115,6 @@ const socialImageURL = new URL(
   </head>
   <body>
     <slot />
+    <LanguagePicker />
   </body>
 </html>
