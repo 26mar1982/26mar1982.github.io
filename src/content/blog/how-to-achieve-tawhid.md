@@ -18,7 +18,7 @@ description:
 others with Allah in His Divinity or worship), and Bid'ah (innovation in Islam).
 ---
 
-~[Audio]([example.com/example.flac](https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59520.mp3)
+<audio src="https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59520.mp3"></audio>
 
 ### Question: 
 
