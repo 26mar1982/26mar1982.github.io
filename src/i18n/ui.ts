@@ -9,8 +9,8 @@ export const showDefaultLang = false;
 export const ui = {
   en: {
     'nav.home': 'Home',
-    'nav.fatwas': 'About',
-    'nav.tags': 'Twitter',
+    'nav.fatwas': 'Fatwas',
+    'nav.tags': 'Tags',
   },
   ar: {
     'nav.home': 'الرئيسية',
